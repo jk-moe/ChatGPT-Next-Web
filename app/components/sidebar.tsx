@@ -145,10 +145,10 @@ export function SideBar(props: { className?: string }) {
     >
       <div className={styles["sidebar-header"]} data-tauri-drag-region>
         <div className={styles["sidebar-title"]} data-tauri-drag-region>
-          ChatGPT Next
+          悠二のGPT
         </div>
         <div className={styles["sidebar-sub-title"]}>
-          Build your own AI assistant.
+         本网站的内容仅供用户学习使用。
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
           <ChatGptIcon />
